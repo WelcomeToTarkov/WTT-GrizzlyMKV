@@ -1,0 +1,513 @@
+{
+    "675dda3b39c7bca41d075cd1": {
+        "itemTplToClone": "668fe5a998b5ad715703ddd6",
+        "parentId": "5447b5cf4bdc2d65278b4567",
+        "handbookParentId": "5b5f792486f77447ed5636b3",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Weight": 0.48,
+            "CameraSnap": 3,
+            "HeatFactorByShot": 3.26,
+            "HeatFactorGun": 1,
+            "RecoilCamera": 0.041,
+            "RecoilDampingHandRotation": 0.85,
+            "RecoilReturnSpeedHandRotation": 2.5,
+            "RepairCost": 65,
+            "Prefab": {
+                "path": "GrizzlyMkV/containers/grizzly_mkv_nickel_container.bundle",
+                "rcid": ""
+            },
+            "Chambers": [
+                {
+                    "_id": "675def8fd29651b5b6768824",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "patron_in_weapon",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "668fe62ac62660a5d8071446",
+                                    "66a0d1e0ed648d72fe064d06",
+                                    "66a0d1c87d0d369e270bb9de",
+                                    "66a0d1f88486c69fce00fdf6"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d4af244bdc2d962f8b4571",
+                    "_required": false
+                }
+            ],
+            "CanSellOnRagfair": true,
+            "Slots": [
+                {
+                    "_id": "675d591caed46c5ea00aae19",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_barrel",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675dda3b39c7bca41d075cc3",
+                                    "675dda3b39c7bca41d075ccf",
+                                    "675dda3b39c7bca41d075ccb"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "675ee3781a56b020400883e1",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount_000",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675ee0e893b66a98429a77af",
+                                    "675ee23f097a11493fcf3d8a",
+                                    "675fb8da53aaced05a23f8ee"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "675d591caed46c5ea00aae1a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_pistol_grip",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675dda3b39c7bca41d075cc9",
+                                    "675dda3b39c7bca41d075cd2",
+                                    "675dda3b39c7bca41d075cd5",
+                                    "675dda3b39c7bca41d075ccd",
+                                    "675dda3b39c7bca41d075cc6",
+                                    "675dda3b39c7bca41d075cc7"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "675d591caed46c5ea00aae1b",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_reciever",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675dda3b39c7bca41d075cd3",
+                                    "675dda3b39c7bca41d075cca",
+                                    "675dda3b39c7bca41d075cd0",
+                                    "675dda3b39c7bca41d075cd6",
+                                    "675dda3b39c7bca41d075cd8"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "675d591caed46c5ea00aae1c",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_magazine",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "AnimationIndex": 0,
+                                "Filter": [
+                                    "675dda3b39c7bca41d075cc4",
+                                    "675dda3b39c7bca41d075cc5"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c394bdc2dae468b4577",
+                    "_required": false
+                },
+                {
+                    "_id": "675d591caed46c5ea00aae1d",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_trigger",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675dda3b39c7bca41d075cc1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "675d591caed46c5ea00aae1e",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_hammer",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675dda3b39c7bca41d075cc2",
+                                    "675dda3b39c7bca41d075cce"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "675d591caed46c5ea00aae1f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_catch",
+                    "_parent": "675dda3b39c7bca41d075cd1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675dda3b39c7bca41d075cc0"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Grizzly Mk V (Nickel)",
+                "shortName": "Grizzly",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 87000,
+        "handbookPriceRoubles": 22000,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 38000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_id": "6763bf4c010016a63a3a8f9a",
+                "_name": "NickelGrizzly",
+                "_parent": "6763bfe7896d0da5bc034821",
+                "_encyclopedia": "675dda3b39c7bca41d075cd1",
+                "_type": "Preset",
+                "_items": [
+                    {
+                        "_id": "6763bfe7896d0da5bc034821",
+                        "_tpl": "675dda3b39c7bca41d075cd1",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            }
+                        }
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034822",
+                        "_tpl": "675dda3b39c7bca41d075ccb",
+                        "slotId": "mod_barrel",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034823",
+                        "_tpl": "675ee0e893b66a98429a77af",
+                        "slotId": "mod_mount_000",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034824",
+                        "_tpl": "675dda3b39c7bca41d075cd2",
+                        "slotId": "mod_pistol_grip",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034825",
+                        "_tpl": "675dda3b39c7bca41d075cd3",
+                        "slotId": "mod_reciever",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034826",
+                        "_tpl": "675dda3b39c7bca41d075cc4",
+                        "slotId": "mod_magazine",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034827",
+                        "_tpl": "675dda3b39c7bca41d075cc1",
+                        "slotId": "mod_trigger",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034828",
+                        "_tpl": "675dda3b39c7bca41d075cc2",
+                        "slotId": "mod_hammer",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc034829",
+                        "_tpl": "675dda3b39c7bca41d075cc0",
+                        "slotId": "mod_catch",
+                        "parentId": "6763bfe7896d0da5bc034821"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc03482a",
+                        "_tpl": "675ee300effb19622b5d6018",
+                        "slotId": "mod_sight_rear",
+                        "parentId": "6763bfe7896d0da5bc034825"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc03482b",
+                        "_tpl": "675ee2a151b4183fd29318b8",
+                        "slotId": "mod_sight_front",
+                        "parentId": "6763bfe7896d0da5bc034825"
+                    },
+                    {
+                        "_id": "6763bfe7896d0da5bc03482c",
+                        "_tpl": "675fbf0b591f5c387fa37500",
+                        "slotId": "mod_muzzle",
+                        "parentId": "6763bfe7896d0da5bc034825"
+                    }
+                ]
+            }
+        ]
+    },
+    "675dda3b39c7bca41d075cd2": {
+        "itemTplToClone": "626a9cb151cb5849f6002890",
+        "parentId": "55818a684bdc2ddd698b456d",
+        "handbookParentId": "5b5f761f86f774094242f1a1",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "GrizzlyMkV/grips/grizzly_grip_nickel.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true
+        },
+        "locales": {
+            "en": {
+                "name": "Grizzly Mk V Grip (Nickel)",
+                "shortName": "Grizzly",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 12000,
+        "handbookPriceRoubles": 4000,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 8000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "675dda3b39c7bca41d075cd3": {
+        "itemTplToClone": "5e81edc13397a21db957f6a1",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "GrizzlyMkV/slide/grizzly_slide_nickel.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true,
+            "Slots": [
+                {
+                    "_id": "675ef0410e5a014c00634f6a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "675dda3b39c7bca41d075cd3",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675ee300effb19622b5d6018"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "675ef0439c9bb3e64bbba567",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "675dda3b39c7bca41d075cd3",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675ee2a151b4183fd29318b8"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+				{
+					"_id": "675fbd7316a46a6bca5a7119",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_muzzle",
+					"_parent":"675dda3b39c7bca41d075cd3",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"675fbf0b591f5c387fa37500",
+									"675fbf11edb5e8159536b929",
+									"675fc002c134f94b899f2aa4"
+								],
+								"Shift": 0
+							}
+						]
+					}
+				}
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Grizzly Mk V Slide (Nickel)",
+                "shortName": "Grizzly",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 14000,
+        "handbookPriceRoubles": 3500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 7000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}

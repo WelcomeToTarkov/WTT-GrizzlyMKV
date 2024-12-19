@@ -1,0 +1,988 @@
+{
+	"675dda3b39c7bca41d075cc0": {
+		"itemTplToClone": "5e81c539cb2b95385c177553",
+		"parentId": "5a74651486f7744e73386dd1",
+		"handbookParentId": "5b5f74cc86f77447ec5d770a",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/grizzly_catch.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Slide Catch",
+				"shortName": "Grizzly SC",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 650,
+		"handbookPriceRoubles": 420,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675dda3b39c7bca41d075cc1": {
+		"itemTplToClone": "5e81c6a2ac2bb513793cdc7f",
+		"parentId": "5a74651486f7744e73386dd1",
+		"handbookParentId": "5b5f74cc86f77447ec5d770a",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/grizzly_trigger.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Trigger",
+				"shortName": "GrizzlyMkV",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 695,
+		"handbookPriceRoubles": 485,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675dda3b39c7bca41d075cc2": {
+		"itemTplToClone": "5e81c550763d9f754677befd",
+		"parentId": "5a74651486f7744e73386dd1",
+		"handbookParentId": "5b5f74cc86f77447ec5d770a",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Weight": 0.02,
+			"Prefab": {
+				"path": "GrizzlyMkV/hammer/grizzly_hammer.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Hammer",
+				"shortName": "GrizzlyMkV",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 785,
+		"handbookPriceRoubles": 415,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675dda3b39c7bca41d075cc3": {
+		"itemTplToClone": "5f3e7801153b8571434a924c",
+		"parentId": "555ef6e44bdc2de9068b457e",
+		"handbookParentId": "5b5f75c686f774094242f19f",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Weight": 0.14,
+			"Prefab": {
+				"path": "GrizzlyMkV/barrel/grizzly_barrel_standard.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Barrel",
+				"shortName": "Grz Barrel",
+				"description": ".50 AE barrel for the Grizzly MK V"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 4120,
+		"handbookPriceRoubles": 3650,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675dda3b39c7bca41d075cc4": {
+		"itemTplToClone": "668fe5c5f35310705d02b696",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Weight": 0.17,
+			"Prefab": {
+				"path": "GrizzlyMkV/mags/grizzly_mag_black.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Mag (Black)",
+				"shortName": "Grz Mag",
+				"description": "Magzine that holds 7 rounds of .50 AE rounds for the Grizzly MK V."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 2230,
+		"handbookPriceRoubles": 1440,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675dda3b39c7bca41d075cc5": {
+		"itemTplToClone": "668fe5c5f35310705d02b696",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Weight": 0.17,
+			"Prefab": {
+				"path": "GrizzlyMkV/mags/grizzly_mag_stainless.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Mag",
+				"shortName": "Grz Mag",
+				"description": "Magzine that holds 7 rounds of .50 AE rounds for the Grizzly MK V."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 2230,
+		"handbookPriceRoubles": 1440,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675dda3b39c7bca41d075cc6": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/grips/grizzly_grip_oak.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Grip (Oak)",
+				"shortName": "Grz Oak",
+				"description": "A Grip for the Gizzly MKV that is Oak."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 3150,
+		"handbookPriceRoubles": 1755,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675ee0e893b66a98429a77af": {
+		"itemTplToClone": "58a56f8d86f774651579314c",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Attachment Rail",
+				"shortName": "Grizzly Rail",
+				"description": "This is a 2 inch rail that allows for extra equipemnt on the Grizzly MK V pistol."
+			}
+		},
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"CanSellOnRagfair": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/rail/grizzly_rail.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_id": "5d67abc1a4b93614ec501384",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical",
+					"_parent": "5d67abc1a4b93614ec50137f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a800961159bd4315e3a1657",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5a7b4900e899ef197b331a2a",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 3325,
+		"handbookPriceRoubles": 1790,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	
+	"675fb8da53aaced05a23f8ee": {
+		"itemTplToClone": "58a56f8d86f774651579314c",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Attachment Rail (White)",
+				"shortName": "Grizzly Rail",
+				"description": "This is a 2 inch rail that allows for extra equipemnt on the Grizzly MK V pistol in a white color."
+			}
+		},
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"CanSellOnRagfair": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/rail/grizzly_rail_white.bundle",
+				"rcid": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 3325,
+		"handbookPriceRoubles": 1790,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675ee2a151b4183fd29318b8": {
+		"itemTplToClone": "56d5a661d2720bd8418b456b",
+		"parentId": "55818ac54bdc2d5b648b456e",
+		"handbookParentId": "5b5f746686f77447ec5d7708",
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Front Sight",
+				"shortName": "Grizzly FS",
+				"description": "Front sight for the Grizzly MK V pistol."
+			}
+		},
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"CanSellOnRagfair": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/sights/grizzly_sight_front.bundle",
+				"rcid": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 570,
+		"handbookPriceRoubles": 375,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675ee300effb19622b5d6018": {
+		"itemTplToClone": "56d5a77ed2720b90418b4568",
+		"parentId": "55818ac54bdc2d5b648b456e",
+		"handbookParentId": "5b5f746686f77447ec5d7708",
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Rear Sight",
+				"shortName": "Grizzly RS",
+				"description": "Rear sight for the Grizzly MK V pistol."
+			}
+		},
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"CanSellOnRagfair": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/sights/grizzly_sight_rear.bundle",
+				"rcid": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 685,
+		"handbookPriceRoubles": 460,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675dda3b39c7bca41d075cc7": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/grips/grizzly_grip_rosewood.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Grip (Rosewood)",
+				"shortName": "Grz Rosewood",
+				"description": "A Grip for the Gizzly MKV that is Rosewood."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 3150,
+		"handbookPriceRoubles": 1755,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675fb945444c82eb3ed173ea": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "GrizzlyMkV/grips/grizzly_grip_carbon.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Grip (Carbon Fiber)",
+				"shortName": "Grz Carbon",
+				"description": "A Carbon Fiber grip for the Grizzly MK V"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 3150,
+		"handbookPriceRoubles": 1755,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675fbf0b591f5c387fa37500": {
+		"itemTplToClone": "5ef61964ec7f42238c31e0c1",
+		"parentId": "550aa4bf4bdc2dd6348b456b",
+		"handbookParentId": "5b5f724c86f774093f2ecf15",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Recoil": -11,
+			"Weight": 0.144,
+			"Prefab": {
+				"path": "GrizzlyMkV/muzzle_devices/grizzly_compensator.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Compensator",
+				"shortName": "Grz Cmp",
+				"description": "A compensator for the Grizzly MK V"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 13000,
+		"handbookPriceRoubles": 5645,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675fbf11edb5e8159536b929": {
+		"itemTplToClone": "5ef61964ec7f42238c31e0c1",
+		"parentId": "550aa4bf4bdc2dd6348b456b",
+		"handbookParentId": "5b5f724c86f774093f2ecf15",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Recoil": -11,
+			"Weight": 0.144,
+			"Prefab": {
+				"path": "GrizzlyMkV/muzzle_devices/grizzly_compensator_gold.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Compensator (Gold)",
+				"shortName": "Grz Cmp",
+				"description": "A compensator for the Grizzly MK V in a gold color."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 14300,
+		"handbookPriceRoubles": 7169,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"675fc002c134f94b899f2aa4": {
+		"itemTplToClone": "5ef61964ec7f42238c31e0c1",
+		"parentId": "550aa4bf4bdc2dd6348b456b",
+		"handbookParentId": "5b5f724c86f774093f2ecf15",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Recoil": -11,
+			"Weight": 0.144,
+			"Prefab": {
+				"path": "GrizzlyMkV/muzzle_devices/grizzly_compensator_white.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "Grizzly Mk V Compensator (White)",
+				"shortName": "Grz Cmp",
+				"description": "A compensator for the Grizzly MK V in a gold color."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 13000,
+		"handbookPriceRoubles": 5645,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+	
+}

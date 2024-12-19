@@ -1,0 +1,7 @@
+2024-12-18 22:07:23,845 - INFO - Bundle generation started.
+2024-12-18 22:07:23,847 - INFO - Added extra dependencies to GrizzlyMkV/containers/grizzly_mkv_black_container.bundle
+2024-12-18 22:07:23,847 - INFO - Added extra dependencies to GrizzlyMkV/containers/grizzly_mkv_fde_container.bundle
+2024-12-18 22:07:23,847 - INFO - Added extra dependencies to GrizzlyMkV/containers/grizzly_mkv_gold_container.bundle
+2024-12-18 22:07:23,847 - INFO - Added extra dependencies to GrizzlyMkV/containers/grizzly_mkv_nickel_container.bundle
+2024-12-18 22:07:23,847 - INFO - Added extra dependencies to GrizzlyMkV/containers/grizzly_mkv_white_container.bundle
+2024-12-18 22:07:23,848 - INFO - bundles.json file has been generated.
